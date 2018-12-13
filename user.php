@@ -10,7 +10,7 @@ $msgveeu = "[!] enjoy your life";
 $data= [
 'adi bordir',
 //vipm
-'trieulinhlin','Hung Cao','Linh Linh',
+'trieulinhlin','Hung Cao','Linh Linh','Uyên Phương','Chương Bàn',
 //mpiv
 'name',
         ];
