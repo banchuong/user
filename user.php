@@ -10,9 +10,9 @@ $msgveeu = "[!] enjoy your life";
 $data= [
 'adi bordir',
 //vipm
-'HARIS Denzlot','Raihan Chainago','Bejo Jo206','Bejo Rusak','Jordan Donathan','Bejo Mace','Jojo Vake','Deaso Bejo','Lungkik Cuiru','Riyan Kartika','Lusto Rusak','Jorsn Rusak','Jordwun jerdin','Curit Astjx','Hais Suis',
+'trieulinhlin',
 //mpiv
-'Gem Bel','trieulinhlin',
+'name',
         ];
 $ydnews = ['tes',];
 $toto = ['tes',];
